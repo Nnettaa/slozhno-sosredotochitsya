@@ -2,25 +2,28 @@
   --accent-color: #ff8dcb;
   --bg-color:#ffc2e6;
   --text-color: #353430;
-  --main-font: IBM Plex Mono;
   --accent-font-color: #ffc2e6; 
   --cover-image: url(../images/cover-image-light.png);
   --title-decor: #ff8dcb;
-  --title-text-color: #000028;
+  --title-text-color: #353430;
   --menu-color:#353430;
   --rec-icon-color: transparent;
+  --section-heading-color: #353430;
+  --button-hover: rgba(50, 49, 45, 0.4);
 }
 
 @media (prefers-color-scheme: light) {
-  :root {   --accent-color: #ff8dcb;
+  :root {   
+  --accent-color: #ff8dcb;
   --bg-color:#ffc2e6;
   --text-color: #353430;
-  --main-font: IBM Plex Mono;
   --accent-font-color: #ffc2e6; 
   --cover-image: url(../images/cover-image-light.png);
   --title-decor: #ff8dcb;
-  --title-text-color: #000028;
+  --title-text-color: #353430;
   --menu-color:#353430;
   --rec-icon-color: transparent;
+  --section-heading-color: #353430;
+  --button-hover: rgba(50, 49, 45, 0.4);
   }
 }
